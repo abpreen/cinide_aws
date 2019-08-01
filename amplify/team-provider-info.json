@@ -1,0 +1,14 @@
+{
+    "linux": {
+        "awscloudformation": {
+            "AuthRoleName": "cinideaws-linux-20190801175337-authRole",
+            "UnauthRoleArn": "arn:aws:iam::288022431178:role/cinideaws-linux-20190801175337-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::288022431178:role/cinideaws-linux-20190801175337-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "cinideaws-linux-20190801175337-deployment",
+            "UnauthRoleName": "cinideaws-linux-20190801175337-unauthRole",
+            "StackName": "cinideaws-linux-20190801175337",
+            "StackId": "arn:aws:cloudformation:us-west-2:288022431178:stack/cinideaws-linux-20190801175337/31437650-b457-11e9-ab39-0a6b0666b1b0"
+        }
+    }
+}
